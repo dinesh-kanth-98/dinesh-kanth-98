@@ -18,7 +18,7 @@ Here are some ideas to get you started:
   ### Hello World!  <img src="https://github.com/sciencepal/sciencepal/blob/master/assets/Hi.gif" width="29px">
   <!-- ![](https://komarev.com/ghpvc/?username=dinesh-kanth-98&label=Profile%20Visits&color=blue&style=for-the-badge) -->
   
-<img src="https://github.com/sciencepal/sciencepal/blob/master/assets/life_balance.gif" alt="side Image" align="right" width="300" height="auto" />
+<img src="https://github.com/sciencepal/sciencepal/blob/master/assets/life_balance.gif" alt="side Image" align="right" width="250" height="auto" />
 
 - 🔧 I’m currently an Embedded Software Developer diving into the world of Device Drivers.  
 - 🌱 Always learning, currently exploring how hardware talks to software (and vice versa!).  
