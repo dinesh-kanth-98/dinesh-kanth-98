@@ -39,10 +39,8 @@
 
 ### <img src='https://media1.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif?cid=ecf05e47x2g034i9pzwtzzsd3xgg2w9nr94t4tflbbgo3008&rid=giphy.gif' width='25' /> My Github Stats:
   
-![Dinesh's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=dinesh-kanth-98&hide=batchfile&title_color=ffc857&text_color=daf7dc&bg_color=151515&langs_count=4)
+![Dinesh's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=dinesh-kanth-98&hide=batchfile&theme=tokyonight&langs_count=4)
 
-![Dinesh's GitHub Stats](https://github-readme-stats.vercel.app/api?username=dinesh-kanth-98&show_icons=true&title_color=ffc857&icon_color=8ac926&text_color=daf7dc&bg_color=151515&hide=issues,prs,contribs&count_private=true&include_all_commits=true)
+![Dinesh's GitHub Stats](https://github-readme-stats.vercel.app/api?username=dinesh-kanth-98&show_icons=true&theme=tokyonight&hide=issues,prs,contribs&count_private=true&include_all_commits=true)
 
-<!-- ![Top Langs](https://github-readme-streak-stats.herokuapp.com/?user=dinesh-kanth-98&show_icons=true&title_color=ffc857&icon_color=8ac926&text_color=daf7dc&bg_color=151515&)
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=dinesh-kanth-98&theme=default&title_color=ffc857&icon_color=8ac926&text_color=daf7dc&background=151515) -->
+[![GitHub Streak](https://github-readme-streak-stats-mocha-omega.vercel.app?user=dinesh-kanth-98&theme=tokyonight)](https://git.io/streak-stats)
