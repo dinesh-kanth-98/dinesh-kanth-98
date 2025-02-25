@@ -1,6 +1,7 @@
 
-# Hi, I'm Dinesh Kanth!  <img src="https://github.com/sciencepal/sciencepal/blob/master/assets/Hi.gif" width="29px">
-  <!-- ![](https://komarev.com/ghpvc/?username=dinesh-kanth-98&label=Profile%20Visits&color=blue&style=for-the-badge) -->
+<h1 align="center">
+  Hi <img src="https://github.com/sciencepal/sciencepal/blob/master/assets/Hi.gif" width="29px" alt="wave">, I'm Dinesh Kanth
+</h1>
   
 ## 🚀 About Me
 
