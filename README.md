@@ -1,11 +1,11 @@
 
 <h1 align="center">
-  Hi <img src="https://github.com/sciencepal/sciencepal/blob/master/assets/Hi.gif" width="29px" alt="wave">, I'm Dinesh Kanth
+  Hi <img src="https://github.com/dinesh-kanth-98/dinesh-kanth-98/blob/main/gif/Hi.gif?raw=true" width="29px" alt="wave">, I'm Dinesh Kanth
 </h1>
   
 ## 🚀 About Me
 
-<img src="https://github.com/sciencepal/sciencepal/blob/master/assets/life_balance.gif" alt="side Image" align="right" width="250" height="auto" />
+<img src="https://github.com/dinesh-kanth-98/dinesh-kanth-98/blob/main/gif/life_balance.gif?raw=true" alt="side Image" align="right" width="250" height="auto" />
 
 - 🔧 Embedded Software Developer exploring Device Drivers  
 - 🌱 Passionate about how hardware and software connect  
@@ -13,11 +13,10 @@
 - 🛠️ Fun fact: I love optimizing low-level code  
 - ⚡ Motto: *"If it works, why? If not, why not?"*  
 
-
 ### 📫 How to reach me
   
   <!-- [<img src="https://img.icons8.com/color/48/000000/twitter.png" width="3.5%"/>](https://twitter.com/sciencepal)  &nbsp;  [<img src="https://img.icons8.com/fluent/48/000000/facebook-new.png" width="3.5%"/>](https://www.facebook.com/aditya.pal23/)  &nbsp; -->
-  [<img src="https://img.icons8.com/color/48/000000/linkedin.png" width="3.5%"/>](https://www.linkedin.com/in/dinesh-kanth-ch/)  &nbsp; [<img src="https://img.icons8.com/fluent/48/000000/instagram-new.png" width="3.5%"/>](https://www.instagram.com/dinesh_kanth_/)  &nbsp; <a href="mailto:chdinesh9948@gmail.com"> <img src="https://img.icons8.com/fluent/48/000000/gmail.png" width="3.5%"/>
+  [<img src="https://img.icons8.com/color/48/000000/linkedin.png" width="5%"/>](https://www.linkedin.com/in/dinesh-kanth-ch/)  &nbsp; [<img src="https://img.icons8.com/fluent/48/000000/instagram-new.png" width="5%"/>](https://www.instagram.com/dinesh_kanth_/)  &nbsp; <a href="mailto:chdinesh9948@gmail.com"> <img src="https://img.icons8.com/fluent/48/000000/gmail.png" width="5%"/>
   
 ### 👨🏻‍💻 Languages and Tools
 
