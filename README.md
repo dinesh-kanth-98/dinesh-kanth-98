@@ -1,11 +1,11 @@
 
 <h1 align="center">
-  Hi <img src="https://github.com/dinesh-kanth-98/dinesh-kanth-98/blob/main/gif/Hi.gif?raw=true" width="29px" alt="wave">, I'm Dinesh Kanth
+  Hi <img src="https://github.com/dinesh-kanth-98/dinesh-kanth-98/blob/main/assets/gifs/Hi.gif?raw=true" width="29px" alt="wave">, I'm Dinesh Kanth
 </h1>
   
 ## 🚀 About Me
 
-<img src="https://github.com/dinesh-kanth-98/dinesh-kanth-98/blob/main/gif/life_balance.gif?raw=true" alt="side Image" align="right" width="250" height="auto" />
+<img src="https://github.com/dinesh-kanth-98/dinesh-kanth-98/blob/main/assets/gifs/life_balance.gif?raw=true" alt="side Image" align="right" width="250" height="auto" />
 
 - 🔧 Embedded Software Developer exploring Device Drivers  
 - 🌱 Passionate about how hardware and software connect  
@@ -23,7 +23,7 @@
 <p align="left">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="55" height="55"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="55" height="55"/>
-  <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="55" height="55"/>
+  <img src="https://github.com/dinesh-kanth-98/dinesh-kanth-98/blob/main/assets/icons/bash.svg" alt="bash" width="55" height="55"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="55" height="55"/>
   <img src="https://upload.wikimedia.org/wikipedia/commons/0/0b/Qt_logo_2016.svg" alt="qt" width="55" height="55"/>
   <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="55" height="55"/> 
@@ -42,12 +42,16 @@
   <img alt="github-snake" src="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake.svg" />
 </picture>
 
----
+### 🔥 GitHub Insights & Contribution Highlights
 
-### <img src='https://media1.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif?cid=ecf05e47x2g034i9pzwtzzsd3xgg2w9nr94t4tflbbgo3008&rid=giphy.gif' width='25' /> My Github Stats:
-  
-![Dinesh's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=dinesh-kanth-98&hide=batchfile&theme=tokyonight&langs_count=4)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dinesh-kanth-98&hide=batchfile&theme=tokyonight&langs_count=4" alt="Top Languages" width="50%"/>
+</p>
 
-![Dinesh's GitHub Stats](https://github-readme-stats.vercel.app/api?username=dinesh-kanth-98&show_icons=true&theme=tokyonight&hide=issues,prs,contribs&count_private=true&include_all_commits=true)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=dinesh-kanth-98&show_icons=true&theme=tokyonight&hide=issues,prs,contribs&count_private=true&include_all_commits=true" alt="GitHub Stats" width="70%"/>
+</p>
 
-[![GitHub Streak](https://github-readme-streak-stats-mocha-omega.vercel.app?user=dinesh-kanth-98&theme=tokyonight)](https://git.io/streak-stats)
+<p align="center">
+    <img src="https://github-readme-streak-stats-mocha-omega.vercel.app?user=dinesh-kanth-98&theme=tokyonight" alt="GitHub Streak" width="80%"/>
+</p>
