@@ -5,7 +5,7 @@
   
 ## 🚀 About Me
 
-<img src="https://github.com/dinesh-kanth-98/dinesh-kanth-98/blob/main/assets/gifs/life_balance.gif?raw=true" alt="side Image" align="right" width="250" height="auto" />
+<!-- <img src="https://github.com/dinesh-kanth-98/dinesh-kanth-98/blob/main/assets/gifs/life_balance.gif?raw=true" alt="side Image" align="right" width="250" height="auto" /> -->
 
 - 🔧 Embedded Software Developer exploring Device Drivers  
 - 🌱 Passionate about how hardware and software connect  
@@ -13,11 +13,20 @@
 - 🛠️ Fun fact: I love optimizing low-level code  
 - ⚡ Motto: *"If it works, why? If not, why not?"*  
 
-### 📫 How to reach me
-  
-  <!-- [<img src="https://img.icons8.com/color/48/000000/twitter.png" width="3.5%"/>](https://twitter.com/sciencepal)  &nbsp;  [<img src="https://img.icons8.com/fluent/48/000000/facebook-new.png" width="3.5%"/>](https://www.facebook.com/aditya.pal23/)  &nbsp; -->
-  [<img src="https://img.icons8.com/color/48/000000/linkedin.png" width="5%"/>](https://www.linkedin.com/in/dinesh-kanth-ch/)  &nbsp; [<img src="https://img.icons8.com/fluent/48/000000/instagram-new.png" width="5%"/>](https://www.instagram.com/dinesh_kanth_/)  &nbsp; <a href="mailto:chdinesh9948@gmail.com"> <img src="https://img.icons8.com/fluent/48/000000/gmail.png" width="5%"/>
-  
+---
+
+Here’s a cleaner and more modern version of your **"How to Reach Me"** section using icons in a horizontal layout:
+
+---
+
+### 📫 Get in Touch  
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white&style=for-the-badge)](https://www.linkedin.com/in/dinesh-kanth-ch/)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?logo=instagram&logoColor=white&style=for-the-badge)](https://www.instagram.com/dinesh_kanth_/)
+[![Gmail](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white&style=for-the-badge)](mailto:chdinesh9948@gmail.com)  
+
+---
+
 ### 👨🏻‍💻 Languages and Tools
 
 <p align="left">
@@ -34,6 +43,8 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="55" height="55"/>
 </p>
 
+---
+
 ### 🐍 GitHub Activity Snake – Code in Motion!
 
 <picture>
@@ -42,16 +53,10 @@
   <img alt="github-snake" src="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake.svg" />
 </picture>
 
-### 🔥 GitHub Insights & Contribution Highlights
+---
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dinesh-kanth-98&hide=batchfile&theme=tokyonight&langs_count=4" alt="Top Languages" width="50%"/>
-</p>
+### 📊 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=dinesh-kanth-98&show_icons=true&theme=tokyonight&hide=issues,prs,contribs&count_private=true&include_all_commits=true" alt="GitHub Stats" width="70%"/>
-</p>
-
-<p align="center">
-    <img src="https://github-readme-streak-stats-mocha-omega.vercel.app?user=dinesh-kanth-98&theme=tokyonight" alt="GitHub Streak" width="80%"/>
-</p>
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=dinesh-kanth-98&hide=batchfile&theme=tokyonight&langs_count=6&layout=compact)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=dinesh-kanth-98&show_icons=true&theme=tokyonight&hide=issues,prs,contribs&count_private=true&include_all_commits=true)  
+![GitHub Streak](https://github-readme-streak-stats-mocha-omega.vercel.app?user=dinesh-kanth-98&theme=tokyonight)  
