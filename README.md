@@ -3,19 +3,15 @@
   Hi <img src="https://github.com/dinesh-kanth-98/dinesh-kanth-98/blob/main/assets/gifs/Hi.gif?raw=true" width="29px" alt="wave">, I'm Dinesh Kanth
 </h1>
   
-## 🚀 About Me
+## 🚀 About Me  
 
-<!-- <img src="https://github.com/dinesh-kanth-98/dinesh-kanth-98/blob/main/assets/gifs/life_balance.gif?raw=true" alt="side Image" align="right" width="250" height="auto" /> -->
+<!-- <img src="https://github.com/dinesh-kanth-98/dinesh-kanth-98/blob/main/assets/gifs/life_balance.gif?raw=true" alt="side Image" align="right" width="250" height="auto" />   -->
 
-- 🔧 Embedded Software Developer exploring Device Drivers  
-- 🌱 Passionate about how hardware and software connect  
-- 💬 Ask me about terminal tricks, Bash, or C/C++  
-- 🛠️ Fun fact: I love optimizing low-level code  
-- ⚡ Motto: *"If it works, why? If not, why not?"*  
-
----
-
-Here’s a cleaner and more modern version of your **"How to Reach Me"** section using icons in a horizontal layout:
+- 🔧 **Embedded Software Engineer** with a passion for low-level programming  
+- 🌱 **Enthusiast of** device drivers and embedded systems  
+- 💬 **Love discussing** terminal hacks, scripting, and efficient coding in C/C++  
+- ⚡ **Motto:** *"If it works, understand why. If not, figure out why not."*  
+- 💡 **Fun Fact:** *"Every bug has a story. Find it."*  
 
 ---
 
@@ -55,8 +51,12 @@ Here’s a cleaner and more modern version of your **"How to Reach Me"** section
 
 ---
 
-### 📊 GitHub Stats
+### 📊 GitHub Stats & Activity
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=dinesh-kanth-98&hide=batchfile&theme=tokyonight&langs_count=6&layout=compact)
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=dinesh-kanth-98&show_icons=true&theme=tokyonight&hide=issues,prs,contribs&count_private=true&include_all_commits=true)  
-![GitHub Streak](https://github-readme-streak-stats-mocha-omega.vercel.app?user=dinesh-kanth-98&theme=tokyonight)  
+![GitHub Profile Summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=dinesh-kanth-98&theme=tokyonight&border-rarius=2)
+![GitHub Streak](https://github-readme-streak-stats-mocha-omega.vercel.app?user=dinesh-kanth-98&theme=tokyonight&hide_border=true)
+![GitHub Stats](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=dinesh-kanth-98&theme=tokyonight)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=dinesh-kanth-98&hide=batchfile&theme=tokyonight&langs_count=6&layout=compact&hide_border=true)
+
+[![Dotfiles](https://github-readme-stats.vercel.app/api/pin/?username=dinesh-kanth-98&repo=dotfiles&theme=tokyonight)](https://github.com/dinesh-kanth-98/dotfiles)
+[![Wallpaper Hub](https://github-readme-stats.vercel.app/api/pin/?username=dinesh-kanth-98&repo=wallpaper-hub&theme=tokyonight)](https://github.com/dinesh-kanth-98/wallpaper-hub)
